@@ -1,6 +1,6 @@
 # Tenderly: AI-Powered Real Estate Tender Intelligence Platform
 
-An end-to-end AI-driven platform designed to automate, streamline, and optimize the tendering process for real estate developers, EPC contractors, facility managers, and infrastructure consultants. By leveraging **Natural Language Processing (NLP)**, **Machine Learning (ML)**, **GIS Spatial Analysis**, and **Predictive Analytics**, Tenderly transforms raw procurement notices into actionable win strategies.
+An end-to-end AI-driven platform designed to automate, streamline, and optimize the tendering process for real estate developers, EPC contractors, facility managers, and infrastructure consultants. By using **Natural Language Processing (NLP)**, **Machine Learning (ML)**, **GIS Spatial Analysis**, and **Predictive Analytics**, Tenderly transforms raw procurement notices into actionable win strategies.
 
 ---
 
